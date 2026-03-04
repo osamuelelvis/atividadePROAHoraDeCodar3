@@ -1,12 +1,13 @@
 programa
 {
-	
+10 - Escreva um programa em que o usuário informe 10 valores e escreva quantos desses valores lidos estão entre os números 24 e 42 (incluindo os valores 24 e 42) e quantos deles estão fora deste intervalo.
 	funcao inicio()
 	{
 		inteiro i, numero_usuario
 		inteiro numeros_dentro = 0
 		inteiro numeros_fora = 0
-		para (i = 1; i <= 10; i++){
+		para 
+(i = 1; i <= 10; i++){
 			escreva("Digite o ", i, "º número: ")
 			leia(numero_usuario)
 
@@ -20,6 +21,7 @@ programa
 		escreva("\nNúmeros fora desse intervalo: ", numeros_fora, "\n")
 	}
 }
+
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
