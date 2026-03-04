@@ -1,6 +1,7 @@
 programa
 {
-	inclua biblioteca Util --> u
+// 1 - Crie uma bomba relógio (usando somente código - para deixar claro!) cuja contagem regressiva vá de 30 a 0. No final da repetição escreva "EXPLOSÃO".
+inclua biblioteca Util --> u
 	funcao inicio()
 	{
 		escreva("Uma bomba relógio foi acionada! Ela vai explodir em 30 segundos!\n\n")
@@ -13,6 +14,7 @@ programa
 		escreva("\nEXPLOSÃO!")
 	}
 }
+
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
