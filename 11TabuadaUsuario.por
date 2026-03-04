@@ -1,11 +1,12 @@
 programa
 {
-	
+// 11 - Escreva um programa para imprimir todas as tabuadas de 1 a N. N será informado pelo usuário.
 	funcao inicio()
 	{
 		inteiro numero_usuario, i, resultado
 		escreva("Digite um número para ver a tabuada desse número: ")
-		leia(numero_usuario)
+		
+leia(numero_usuario)
 
 		para (i = 1; i <= numero_usuario; i++){
 			resultado = numero_usuario * i
@@ -13,6 +14,7 @@ programa
 		}
 	}
 }
+
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
