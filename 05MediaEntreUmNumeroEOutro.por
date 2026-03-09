@@ -10,7 +10,7 @@ programa
 		escreva("Digite o primeiro número: ")
 		leia(num1)
 		inteiro atual = num1
-		escreva("Digite o segundo número (precisa ser menor que o primeiro número): ")
+		escreva("Digite o segundo número (precisa ser maior que o primeiro número): ")
 		leia(num2)
 		
 		enquanto (atual <= num2) {
