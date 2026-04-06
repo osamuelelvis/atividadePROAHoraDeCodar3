@@ -1,17 +1,16 @@
-# 🧠 PROA - Hora de Codar 3 (Portugol)
+# 🧠 Atividade PROA - Hora de Codar 3 (Portugol)
 
-Este repositório contém exercícios de lógica de programação desenvolvidos em Portugol Studio das atividades do "Hora de Codar 3" do Instituto PROA.
+Exercícios com foco no aprofundamento da lógica de programação.
 
 ## 📚 Sobre o projeto
 
-As atividades deste módulo têm como foco o aprofundamento da lógica de programação, com problemas que exigem maior organização e raciocínio estruturado.
+As atividades envolvem problemas mais estruturados e exigem maior organização lógica.
 
 ## 🧩 Conceitos trabalhados
 
-- Estruturas condicionais encadeadas
+- Condicionais encadeadas
 - Laços de repetição
-- Problemas com múltiplas etapas lógicas
-- Entrada e saída de dados
+- Problemas com múltiplas etapas
 
 ## 🛠️ Tecnologias utilizadas
 
@@ -19,7 +18,19 @@ As atividades deste módulo têm como foco o aprofundamento da lógica de progra
 
 ## 🚀 Como executar
 
-1. Baixe o Portugol Studio  
-2. Clone o repositório:
-   ```bash
-   git clone https://github.com/osamuelelvis/atividadePROAHoraDeCodar3.git
+1. Baixe e instale o Portugol Studio
+2. Clone este repositório:
+```bash
+git clone https://github.com/osamuelelvis/atividadePROAHoraDeCodar3.git
+```
+3. Abra os arquivos no Portugol Studio
+4. Execute os algoritmos
+
+## 📈 Aprendizados
+
+- Melhor organização de lógica
+- Estruturação de soluções mais completas
+
+## 📌 Status do projeto
+
+✅ Concluído
